@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+
+    <display-name>Archetype Created Web Application</display-name>
+
+    <servlet>
+        <servlet-name>employee</servlet-name>
+        <servlet-class>controller.EmployeeServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>employee</servlet-name>
+        <url-pattern>/employee/*</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>ticket</servlet-name>
+        <servlet-class>controller.TicketServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ticket</servlet-name>
+        <url-pattern>/ticket</url-pattern>
+    </servlet-mapping>
+
+</web-app>
