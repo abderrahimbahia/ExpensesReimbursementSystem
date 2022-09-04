@@ -1,21 +1,20 @@
 # ExpensesReimbursementSystem
 
 ---
- * [Introduction](Introduction)
- * [Technologies](Technologies)
- * [Architecture Diagram ](Architecture Diagram )
- * [ERD Diagram](ERD Diagram)
- * [Features Implemented](Features Implemented)
- * [FAQ](FAQ)
+ * [Introduction](#introduction)
+ * [Technologies](#technologies)
+ * [Project Architecture Diagram](#project-architecture-diagram)
+ * [ERD Diagram](#database-erd-diagram)
+
 ---
-## I.Introduction
+## Introduction
 This project is an expense reimbursement system, designed to allow us
 to demonstrate our understanding of the fundamentals of software development.
 Employee expense reimbursement software allows you to input expenses for approval
 through one application. during this project I built an API for employees  to submit
 reimbursement requests and managers to approve or deny the submitted requests.
 ---
-## II. Technologies
+## Technologies
 - JAVA 8
   - https://www.java.com/en/download/
 - JDK 18.0.2 
@@ -33,9 +32,9 @@ reimbursement requests and managers to approve or deny the submitted requests.
 - Apache Tomcat 8.5.82
   - https://tomcat.apache.org/download-80.cgi
 ---
-## III. Project Architecture Diagram 
+## Project Architecture Diagram 
 ![Architecture Diagram](https://user-images.githubusercontent.com/52228409/188332949-9e5734be-c8a9-4765-9e46-7248d2889c73.JPG)
 
 ---
-##  IV. Database ERD Diagram
+## Database ERD Diagram
 ![Database ERD Diagram](https://user-images.githubusercontent.com/52228409/188332952-e723f4c7-b8d8-490f-a00f-bdfa913613b5.JPG)
