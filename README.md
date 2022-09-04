@@ -34,7 +34,8 @@ reimbursement requests and managers to approve or deny the submitted requests.
   - https://tomcat.apache.org/download-80.cgi
 ---
 ## III. Project Architecture Diagram 
-![Architecture Diagram](ExpensesReimbursementSystem/images/AD.JPG)
+![Architecture Diagram](https://user-images.githubusercontent.com/52228409/188332949-9e5734be-c8a9-4765-9e46-7248d2889c73.JPG)
 
 ---
 ##  IV. Database ERD Diagram
+![Database ERD Diagram](https://user-images.githubusercontent.com/52228409/188332952-e723f4c7-b8d8-490f-a00f-bdfa913613b5.JPG)
