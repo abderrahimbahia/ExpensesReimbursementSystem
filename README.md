@@ -9,7 +9,7 @@
 ---
 ## Introduction
 This project is an expense reimbursement system, designed to allow us
-to demonstrate our understanding of the fundamentals of software development.
+to demonstrate our understanding of the fundamentals of software development.<br/>
 Employee expense reimbursement software allows you to input expenses for approval
 through one application. during this project I built an API for employees  to submit
 reimbursement requests and managers to approve or deny the submitted requests.
