@@ -1,4 +1,4 @@
-# ExpensesReimbursementSystem
+# Expenses Reimbursement System
 
 ---
  * [Introduction](#introduction)
